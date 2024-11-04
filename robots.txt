@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyesiode.github.io/QUc/sitemap_index.txt
+Sitemap: https://iyesiode.github.io/pxN/sitemap_index.txt
+Sitemap: https://iyesiode.github.io/rnX/sitemap_index.txt
+Sitemap: https://iyesiode.github.io/xUX/sitemap_index.txt
